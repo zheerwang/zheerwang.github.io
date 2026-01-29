@@ -113,13 +113,14 @@ Lixiu Wu\*, Yuanrong Tang\*, Qisen Pan, **Xianyang Zhan**, Yuchen Han, Lanxi Xia
 Peiran Wang\*, Yaoning Yu\*, Ke Chen\*, **Xianyang Zhan**, Haohan Wang. <br />
 **Accepted to TMLR Transactions on Machine Learning Research**
 
-[5] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
+[5] VASTU: Value-Aligned Social Toolkit for Online Content Curation [[PDF]](https://arxiv.org/pdf/2601.12491)<br />
+Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
+Under Review
+
+[6] MAGIC: Multi-Armed Bandit Guided Iterative Code Generation <br />
 Yaowenqi Liu, **Xianyang Zhan**, Yanli Wang, Kaidi Xu, Haohan Wang. <br />
 Under Review
 
-[6] VASTU: Value-Aligned Social Toolkit for Online Content Curation <br />
-Agam Goyal, **Xianyang Zhan**, Charlotte Lambert, Koustuv Saha, Eshwar Chandrasekharan. <br />
-Under Review
 
 # Skills
 
