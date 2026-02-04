@@ -8,9 +8,9 @@ nav_order: 6
 ---
 
 **CS124 Introduction to Computer Science, UIUC**\
-Fall 2023, Spring 2024, Fall 2024\
+Spring 2024, Fall 2024\
 Professor [Geoffrey Challen](https://www.geoffreychallen.com/)
 
-**CS415 Game Development, UIUC**\
-Fall 2024\
-Professor [Eric Shaffer](https://cs.illinois.edu/about/people/faculty/shaffer1)
+**CS6601 Artificial Intelligence, Gatech**\
+Spring 2026\
+Professor [Thad Starner](https://sites.cc.gatech.edu/home/thad/), [Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz)
