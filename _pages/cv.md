@@ -7,10 +7,10 @@ nav_order: 5
 description:
 ---
 <!-- I have multiple internship experience in Industry for sotfware and AI development and Academia for nlp and hci research. **I am actively seeking ~~SWE/MLE internships and research internship opportunities for summer 2025~~ full-time software engineering jobs starting in May 2025. Contact me (xianyangzhan@gmail.com, zhan39@illinois.edu) if you think I will be a good fit for a role in your team.** -->
-<!-- ## Download My CV
+## Download My CV
 You can download my CV in PDF format by clicking the link below:
-[Download my CV](../assets/pdf/cv.pdf) -->
-# Xianyang Zhan
+[Download my CV](../assets/pdf/example_pdf.pdf)
+<!-- # Xianyang Zhan
 
 ### Software Engineer II at Uber Freight
 
@@ -143,4 +143,4 @@ I know nobody cares about this section, so I just put down some random key words
 ### Languages
 
 
-- English, 中文, 廣東話
+- English, 中文, 廣東話 -->
