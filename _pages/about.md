@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: Software Engineer II at <a href='https://www.uberfreight.com/'>Uber Freight</a>
+subtitle1: MSCSE student at <a href='https://www.gatech.edu//'>Georgia Institute of Technology</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-My name is Xianyang (Sam) Zhan (詹先洋), I am a Software Engineer II at Uber Freight, working on algorithm, strategy and machine learning engineering (ML safe deployment, feature engineering) for freight pricing.
+My name is Ava (Zheer) Wang (王哲儿), I am a Software Engineer II at Uber Freight, working on algorithm, strategy and machine learning engineering (ML safe deployment, feature engineering) for freight pricing.
 
 Prior to Uber Freight, I received my Bachelor's degree in Computer Science with highest honors at the University of Illinois Urbana-Champaign in May 2025, advised by [Professor Koustuv Saha](https://koustuv.com/), I also worked closely with [Professor Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com/). I worked at the [National Center for Supercomputing Applications (NCSA)](https://spin.ncsa.illinois.edu/24-25-academic-year-interns/) as a research intern in Fall 2024, advised by [Professor Haohan Wang](https://haohanwang.github.io/index.html). My research area is NLP X HCI and I have published multiple papers at top tier AI conferences and Journal (EMNLP, NAACL, AAAI, TMLR).<span style="color:rgb(255, 0, 0);">  </span>
 
