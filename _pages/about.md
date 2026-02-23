@@ -9,7 +9,7 @@ profile:
   image: i7-removebg-preview.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: zwang3657@gatech.edu</a></p>
+    <p>Email: zheerw22@gmail.com</a></p>
  
 
 news: true # includes a list of news items

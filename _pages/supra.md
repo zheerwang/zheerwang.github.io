@@ -3,7 +3,7 @@ layout: page
 permalink: /yummi/
 title: Yummi and Supra
 description: 
-nav: false
+nav: true
 nav_order: 8
 ---
 

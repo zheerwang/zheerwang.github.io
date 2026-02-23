@@ -3,7 +3,7 @@ layout: page
 permalink: /members/
 title: Members
 description: 
-nav: false
+nav: true
 nav_order: 9
 ---
 
@@ -193,7 +193,7 @@ nav_order: 9
         <div class="leader-container">
             <div class="member-card leader">
                 <img src="../assets/img/prof_pic.jpg" class="headshot" alt="Me">
-                <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Xianyang Zhan</a></div>
+                <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Ava Wang</a></div>
                 <div class="member-role">Human</div>
             </div>
         </div>
@@ -207,14 +207,14 @@ nav_order: 9
         
         <div class="team-members">
             <div class="member-card">
-                <img src="../assets/img/Yummi0.jpg" class="headshot" alt="Yummi">
-                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Yummi</a></div>
+                <img src="../assets/img/Yummi0.jpg" class="headshot" alt="Tutu">
+                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Tutu</a></div>
                 <div class="member-role">Pet (2025-)</div>
             </div>
             
             <div class="member-card">
-                <img src="../assets/img/supra1.jpg" class="headshot" alt="Supra">
-                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Supra</a></div>
+                <img src="../assets/img/supra1.jpg" class="headshot" alt="Naonao">
+                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Naonao</a></div>
                 <div class="member-role">Senior Pet (2021-)</div>
             </div>
         </div>

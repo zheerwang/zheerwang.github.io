@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intuit SWE Internship
-date: 2026-02-15
+date: 2026-02-06
 inline: true
 related_posts: false
 ---
@@ -13,7 +13,7 @@ I have accepted an offer to work at the Intuit Inc. as a Software Engineer inter
 ---
 layout: post
 title: Georgia Tech Graduate Teaching Assistant
-date: 2026-01-10
+date: 2026-01-12
 inline: true
 related_posts: false
 ---
