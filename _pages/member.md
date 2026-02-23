@@ -208,13 +208,13 @@ nav_order: 9
         <div class="team-members">
             <div class="member-card">
                 <img src="../assets/img/tutu1.jpg" class="headshot" alt="Tutu">
-                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Tutu</a></div>
+                <div class="member-name"><a href="https://zheerwang.github.io/tutunaonao/" target="_blank">Tutu</a></div>
                 <div class="member-role">Boy (2023-)</div>
             </div>
             
             <div class="member-card">
                 <img src="../assets/img/naonao1.jpg" class="headshot" alt="Naonao">
-                <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Naonao</a></div>
+                <div class="member-name"><a href="https://zheerwang.github.io/tutunaonao/" target="_blank">Naonao</a></div>
                 <div class="member-role">Girl (2024-)</div>
             </div>
         </div>

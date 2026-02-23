@@ -1,16 +1,12 @@
 ---
 layout: page
-permalink: /yummi/
-title: Yummi and Supra
+permalink: /tutunaonao/
+title: Tutu and Naonao
 description: 
 nav: false
 nav_order: 8
 ---
-
-My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 2021 to 2023 in Seattle, WA. A CUTE++ cat named ✨Yummi✨ would be with me starting in Oct 2025 in Chicago, IL.
-
-Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter/summer).
-
+I have two lovely cats — Tutu, a gentle boy, and Naonao, a sweet girl. They’re more than pets; they’re my little family. They’ve stayed by my side through everyday moments and life’s brightest milestones, witnessing my journey. I love them with all my heart.
 <style>
     /* Style for the photo grid */
     .photo-grid {
@@ -26,20 +22,14 @@ Generally, I visit Kirkland, Bellevue, Redmond, and Seattle twice a year (winter
         }
 </style>
 <div class="photo-grid">
-    <img class="photo" src="../assets/img/Yummi1.jpg">
-    <img class="photo" src="../assets/img/Yummi2.jpg">
-    <img class="photo" src="../assets/img/Yummi3.jpg">
-    <img class="photo" src="../assets/img/Yummi4.jpg">
-    <img class="photo" src="../assets/img/Yummi5.jpg">
-    <img class="photo" src="../assets/img/supra1.jpg">
-    <img class="photo" src="../assets/img/supra2.jpg">
-    <img class="photo" src="../assets/img/supra6.jpg">
-    <img class="photo" src="../assets/img/supra3.jpg">
-    <img class="photo" src="../assets/img/supra5.jpg">
-    <img class="photo" src="../assets/img/supra4.jpg">
-    <img class="photo" src="../assets/img/supra7.jpg">
-    <img class="photo" src="../assets/img/supra8.jpg">
-    <img class="photo" src="../assets/img/supra9.jpg">
+    <img class="photo" src="../assets/img/tutu2.png">
+    <img class="photo" src="../assets/img/tutu3.png">
+    <img class="photo" src="../assets/img/tutu4.png">
+    <img class="photo" src="../assets/img/tutu5.png">
+    <img class="photo" src="../assets/img/tutu6.png">
+    <img class="photo" src="../assets/img/tutu7.png">
+    <img class="photo" src="../assets/img/naonao2.png">
+    <img class="photo" src="../assets/img/naonao3.png">
 </div>
 
 <style>
