@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My name is Ava Zheer Wang, I am a first year MSCSE student at Georgia Institute of Technology. Prior to GT, I received my Bachelor's degree with highest honors at the University of Illinois Urbana-Champaign in May 2025. I will be joining Intuit as a Software Engineer Intern in summer 2026.
+My name is Ava Zheer Wang, I am a first year MS CSE student at Georgia Institute of Technology. Prior to Georgia Tech, I received my Bachelor's degree with highest honors at the University of Illinois Urbana-Champaign in May 2025. I will be joining Intuit as a Software Engineer Intern in summer 2026.
 
-<span style="color: #b509ac;"> I am graduating in May 2027, currently looking for SWE/MLE internship oppurtunities for Fall 2026, and able to start full time on or after May 2027. </span> Feel free to shoot me an email at zheerw22@gmail.com if you think I would be a good fit in your team!
+<span style="color: #b509ac;"> I am graduating in May 2027, currently looking for Fall 2026 SWE/MLE internship oppurtunities, and able to start full time on or after May 2027. </span> Feel free to shoot me an email at zheerw22@gmail.com if you think I would be a good fit in your team!
