@@ -22,6 +22,4 @@ I have a strong foundation in Computer Science and Statistics, with experience d
 
 <span style="color: #b509ac;">
 I plan to graduate in May 2027. I’m currently seeking Fall 2026 SWE/MLE internship opportunities, and I’ll be available for full-time roles starting May 2027.
-</span>
-
-Feel free to shoot me an email at <a href="mailto:zheerw22@gmail.com">zheerw22@gmail.com</a> if you think I could be a good fit for your team!
+</span> Feel free to shoot me an email at <a href="mailto:zheerw22@gmail.com">zheerw22@gmail.com</a> if you think I could be a good fit for your team!
