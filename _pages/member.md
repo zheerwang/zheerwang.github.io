@@ -207,13 +207,13 @@ nav_order: 9
         
         <div class="team-members">
             <div class="member-card">
-                <img src="../assets/img/Yummi0.jpg" class="headshot" alt="Tutu">
+                <img src="../assets/img/tutu1.jpg" class="headshot" alt="Tutu">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Tutu</a></div>
                 <div class="member-role">Pet (2025-)</div>
             </div>
             
             <div class="member-card">
-                <img src="../assets/img/supra1.jpg" class="headshot" alt="Naonao">
+                <img src="../assets/img/naonao1.jpg" class="headshot" alt="Naonao">
                 <div class="member-name"><a href="https://xzhan0.github.io/yummi/" target="_blank">Naonao</a></div>
                 <div class="member-role">Senior Pet (2021-)</div>
             </div>
