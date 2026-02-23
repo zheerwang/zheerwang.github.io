@@ -192,8 +192,8 @@ nav_order: 9
     <div class="org-chart">
         <div class="leader-container">
             <div class="member-card leader">
-                <img src="../assets/img/prof_pic.jpg" class="headshot" alt="Me">
-                <div class="member-name"><a href="https://xzhan0.github.io/" target="_blank">Ava Wang</a></div>
+                <img src="../assets/img/ava.jpg" class="headshot" alt="Me">
+                <div class="member-name"><a href="https://zheerwang.github.io/" target="_blank">Ava Wang</a></div>
                 <div class="member-role">Human</div>
             </div>
         </div>
