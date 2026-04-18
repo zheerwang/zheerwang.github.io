@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 5
 description:
 ---
@@ -19,7 +19,7 @@ You can download my CV in PDF format by clicking the link below:
 # Education
 
 ### Georiga Institute Of Technology 🐝
-**Bachelor of Science in Computational Science and Engineering**
+**Master of Science in Computational Science and Engineering**
 Aug 2025 – May 2027
 
 ### University of Illinois Urbana-Champaign 🌽
@@ -39,7 +39,7 @@ Aug 2022 – May 2025
 
 ### Georiga Institute Of Technology
 
-**Graduate Teaching Assistant** (Aug 2025 ~ )
+**Graduate Teaching Assistant** (Jan 2026 ~ )
 
 - Course: CS6601 Artificial Intelligence
 
