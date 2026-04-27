@@ -15,7 +15,7 @@ You can download my CV in PDF format by clicking the link below:
 
 - Linkedin: [linkedin.com/in/zheer-wang](https://www.linkedin.com/in/zheer-wang/)
 
-  
+   
 # Education
 
 ### Georiga Institute Of Technology 🐝
