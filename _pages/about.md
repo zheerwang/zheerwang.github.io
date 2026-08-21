@@ -22,4 +22,4 @@ I recently completed a Software Engineering Internship at Intuit, where I built 
 
 I plan to graduate in Dec 2026 and am currently seeking full-time Software Engineering, ML Engineering, and AI-focused opportunities starting after graduation.
 
-</span> Feel free to shoot me an email at <a href="mailto:zheerw22@gmail.com">zheerw22@gmail.com</a> if you think I could be a good fit for your team!
+Feel free to shoot me an email at <a href="mailto:zheerw22@gmail.com">zheerw22@gmail.com</a> if you think I could be a good fit for your team!
