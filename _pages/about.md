@@ -6,7 +6,7 @@ subtitle1: MSCS student at <a href='https://www.gatech.edu//'>Georgia Institute 
 
 profile:
   align: right
-  image: Ava.jpg
+  image: ava.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: zheerw22@gmail.com</a></p>
