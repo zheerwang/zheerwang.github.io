@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 **CS6604 Conversational AI, Gatech**\
-Spring 2026\
+Fall 2026\
 Professor [Larry P. Heck](https://larryheck.github.io/)
 
 **CS6601 Artificial Intelligence, Gatech**\
