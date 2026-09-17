@@ -25,8 +25,8 @@ description: Selected projects in AI agents, software engineering, and machine l
       </div>
     </div>
   </a>
-<nav class="zw-card-resources" aria-label="ASSERT resources"><a href="https://drive.google.com/file/d/1kzcLP1b9BxH9c_u6_R2zVzLHwBN2Siad/view?usp=sharing">Paper · Google Drive ↗</a>
-<a href="{{ '/assets/pdf/research/assert-report.pdf' | relative_url }}">Report · PDF ↗</a></nav>
+<nav class="zw-card-resources" aria-label="ASSERT resources">
+<a href="{{ '/assets/pdf/research/assert-report.pdf' | relative_url }}">Paper · PDF ↗</a></nav>
 </article>
 <article class="zw-project-item">
   <a class="zw-card" href="{{ '/project/finma-rag/' | relative_url }}" aria-labelledby="finma-rag-title">
@@ -43,7 +43,7 @@ description: Selected projects in AI agents, software engineering, and machine l
     </div>
   </a>
 <nav class="zw-card-resources" aria-label="FinMA-RAG resources"><a href="{{ '/assets/pdf/research/finma-rag-poster.pdf' | relative_url }}">Poster · PDF ↗</a>
-<a href="{{ '/assets/pdf/research/finma-rag-paper.pdf' | relative_url }}">Paper · RAG survey ↗</a></nav>
+<a href="{{ '/assets/pdf/research/finma-rag-paper.pdf' | relative_url }}">Paper · PDF ↗</a></nav>
 </article>
 <article class="zw-project-item">
   <a class="zw-card" href="{{ '/project/baseball-analytics/' | relative_url }}" aria-labelledby="baseball-analytics-title">

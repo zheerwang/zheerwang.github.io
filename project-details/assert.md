@@ -7,7 +7,7 @@ nav: false
 technologies: ["Python", "LLM Agents", "Evaluation", "Software Engineering"]
 project_image: /assets/img/research/assert.svg
 image_caption: "The multi-agent monitor decomposes coding outputs, extracts assumptions, merges duplicates, and verifies findings against the prompt and code."
-resources: [{"label": "Paper \u00b7 Google Drive", "url": "https://drive.google.com/file/d/1kzcLP1b9BxH9c_u6_R2zVzLHwBN2Siad/view?usp=sharing"}, {"label": "Report \u00b7 PDF", "url": "/assets/pdf/research/assert-report.pdf", "local": true}]
+resources: [{"label": "Paper \u00b7 PDF", "url": "/assets/pdf/research/assert-report.pdf", "local": true}]
 # Optional: add github_url or demo_url when you have the real URLs.
 ---
 
