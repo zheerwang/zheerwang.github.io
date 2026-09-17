@@ -1,0 +1,25 @@
+---
+layout: page
+---
+{% include zw-research-styles.html %}
+<div class="zw-project-detail">
+  <a class="zw-back" href="{{ '/project/' | relative_url }}">← All projects</a>
+  <nav class="zw-resource-links" aria-label="Project resources">
+    {% for resource in page.resources %}
+      {% if resource.local %}<a href="{{ resource.url | relative_url }}">{{ resource.label | escape }} ↗</a>
+      {% else %}<a href="{{ resource.url | escape }}">{{ resource.label | escape }} ↗</a>{% endif %}
+    {% endfor %}
+  </nav>
+  <ul class="zw-tech-list" aria-label="Technologies">
+    {% for tech in page.technologies %}<li>{{ tech | escape }}</li>{% endfor %}
+  </ul>
+  <figure class="zw-project-figure">
+    <img src="{{ page.project_image | relative_url }}" alt="" width="300" height="258">
+    <figcaption>{{ page.image_caption | escape }}</figcaption>
+  </figure>
+  <div class="zw-project-body">{{ content }}</div>
+  <div class="zw-project-links">
+    {% if page.github_url and page.github_url != '' %}<a href="{{ page.github_url | escape }}">GitHub repository ↗</a>{% endif %}
+    {% if page.demo_url and page.demo_url != '' %}<a href="{{ page.demo_url | escape }}">Live demo ↗</a>{% endif %}
+  </div>
+</div>
