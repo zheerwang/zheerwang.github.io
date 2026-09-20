@@ -7,7 +7,7 @@ nav: false
 technologies: ["Python", "LangGraph", "FAISS", "BM25", "ColBERT-v2", "RAG"]
 project_image: /assets/img/research/finma-rag.svg
 image_caption: "Structure-aware ingestion, hybrid retrieval, reranking, and agent reasoning support financial QA."
-resources: [{"label": "Poster \u00b7 PDF", "url": "/assets/pdf/research/finma-rag-poster.pdf", "local": true}, {"label": "Paper \u00b7 PDF", "url": "/assets/pdf/research/finma-rag-paper.pdf", "local": true}]
+resources: [{"label": "Poster \u00b7 PDF", "url": "/assets/pdf/research/finma-rag-poster.pdf", "local": true}, {"label": "Paper \u00b7 PDF", "url": "/assets/pdf/research/CAI.pdf", "local": true}]
 # Optional: add github_url or demo_url when you have the real URLs.
 ---
 
